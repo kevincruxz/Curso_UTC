@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap');
+
+body {
+    background-color: #030303;
+    overflow-x: hidden;
+}
+
+h1 {
+    color: #ffffff;
+    position: absolute;
+    top: 45vh;
+    left: 10vw;
+    font-family: "Playpen Sans", cursive;
+}
+
+.gato {
+    position: absolute;
+    top: 25vh;
+    left: 50vw;
+    width: 45vw;
+}
